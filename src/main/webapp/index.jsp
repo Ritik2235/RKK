@@ -768,7 +768,7 @@ body {
 <div class="ground"></div>
 
 
-<!-- HER BEAUTIFUL THOUGHT -->
+<!-- HER BEAUTIFUL THOUGHT For Him  -->
 
 <div class="thought left-thought">
 
